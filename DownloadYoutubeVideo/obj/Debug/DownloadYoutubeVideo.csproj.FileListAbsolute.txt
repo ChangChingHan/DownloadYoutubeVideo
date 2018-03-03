@@ -1,0 +1,8 @@
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\DownloadYoutubeVideo.exe
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\DownloadYoutubeVideo.pdb
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\ResolveAssemblyReference.cache
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.Form1.resources
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.Properties.Resources.resources
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.csproj.GenerateResource.Cache
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.exe
+D:\VC9 Projects\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.pdb
